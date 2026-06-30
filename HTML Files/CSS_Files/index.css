@@ -1,0 +1,62 @@
+#indexBTNs {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 8%;  
+    padding-bottom: 2%;
+}
+#homepageBODY {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 80%;  
+}
+
+#menuBTNS{
+    height: 100%;
+    width: 33%;  
+    color: black;
+    text-decoration: none;
+}
+#acadBTN, #ecBTN, #aboutBTN {
+    /* border-style: solid;
+    border-color: rgb(184, 184, 184); */
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    font-size: 25;
+}
+
+#homeSlides {
+    height: 100%;
+    width: 40%;
+    align-content: center;
+}
+
+#welcomeBODY {
+    height: 100%;
+    width: 60%;
+    align-content: center;
+}
+#imagesGoHere {
+    background-color: black;
+    background-clip: content-box;
+    height: 80%;
+    width: 60%;
+    padding-right:30%;
+}
+
+#favQuote {
+    text-align: center;
+    padding-top: 2%;
+    width: 60%;
+    padding-right: 30%;
+}
+
+#welcomeText {
+    text-align: left;
+    width: 60%;
+    padding-left: 30%;
+}
+
