@@ -1,9 +1,15 @@
+#indexHead {
+    text-align: center;
+    border-bottom: -5%;
+    font-size: 30;
+
+}
+
 #indexBTNs {
     display: flex;
     flex-direction: row;
     width: 100%;
-    height: 8%;  
-    padding-bottom: 2%;
+    height: 8%;
 }
 #homepageBODY {
     display: flex;
@@ -13,14 +19,16 @@
 }
 
 #menuBTNS{
-    height: 100%;
+    height: 50%;
     width: 33%;  
-    color: black;
+    color: rgb(123, 120, 120);
     text-decoration: none;
 }
+
+#menuBTNS:hover{
+    color:black;
+}
 #acadBTN, #ecBTN, #aboutBTN {
-    /* border-style: solid;
-    border-color: rgb(184, 184, 184); */
     height: 100%;
     width: 100%;
     align-content: center;
@@ -59,4 +67,3 @@
     width: 60%;
     padding-left: 30%;
 }
-

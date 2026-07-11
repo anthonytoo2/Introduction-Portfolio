@@ -1,0 +1,76 @@
+#indexHead {
+    text-align: center;
+    border-bottom: -5%;
+    font-size: 30;
+
+}
+
+#indexBTNs {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 8%;
+}
+
+#menuBTNS{
+    height: 50%;
+    width: 33%;  
+    color: rgb(123, 120, 120);
+    text-decoration: none;
+}
+
+#menuBTNS:hover{
+    color:black;
+}
+#acadBTN, #ecBTN, #aboutBTN {
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    font-size: 25;
+}
+
+#acadBody {
+    width: 80%;
+    height: 78%;
+    align-content: center;
+    padding-left:10%;
+    display: flex;
+}
+
+#acadBodySpacing {
+    width: 100%;
+    height: 90%;
+    padding-top: 2.6%;
+    display: flex;
+}
+
+
+#schoolIcon{
+    height: 50%;
+    width: 23%;
+    background-color: black;
+    padding-top: 12%;
+    padding-left:5%;
+    background-clip: content-box;
+    align-content: center;
+}
+
+#acadInfo {
+    width: 74%;
+    height:70%;
+    padding-left: 4%;
+    padding-top: 6.8%;
+}
+
+#awards {
+    height:55%;
+    width: 100%;
+}
+
+#schoolInfo{
+    height: 45%;
+    width: 100%;
+    border-top: -100%;
+    border-top: -100%;
+} 
